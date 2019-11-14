@@ -1,0 +1,26 @@
+body{
+	color: #424242;
+	margin-left: auto;
+	margin-right: auto;
+	width: 650px;
+	line-height: 1.6;
+
+}
+
+/* DOIT VOIR CETTE LIGNE h1,h2 {
+	line-height: 1.5;
+}
+*/
+h1{
+	font-size: 2.2em;
+}
+
+h2{
+	font-size: 1.7em;
+}
+
+
+p, aside, ul{
+	display: block;
+	font-size: 18px;
+}
